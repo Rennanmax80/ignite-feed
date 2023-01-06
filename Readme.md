@@ -22,10 +22,10 @@ You should be able to access the application at `http://localhost:3001`.
 
 
 
-<img alt="IGNITE FEED" src="./docs/Imagem1.png" style="max-width: 500px" />
+<img alt="IGNITE FEED" src="./docs/Imagem01.png" style="max-width: 500px" />
 
 <br />
 
-<img alt="IGNITE FEED" src="./docs/Imagem2.png" style="max-width: 500px" />
+<img alt="IGNITE FEED" src="./docs/Imagem02.png" style="max-width: 500px" />
 
 
