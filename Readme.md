@@ -4,7 +4,7 @@
 
 ## Setup Instructions
 
-This project uses create-react-app.
+This project uses Vite + ReactJs.
 
 Start by installing dependencies:
 
@@ -22,10 +22,10 @@ You should be able to access the application at `http://localhost:3001`.
 
 
 
-<img alt="IGNITE FEED" src="./docs/imagem1.png" style="max-width: 500px" />
+<img alt="IGNITE FEED" src="./docs/Imagem1.png" style="max-width: 500px" />
 
 <br />
 
-<img alt="IGNITE FEED" src="./docs/imagem2.png" style="max-width: 500px" />
+<img alt="IGNITE FEED" src="./docs/Imagem2.png" style="max-width: 500px" />
 
 
